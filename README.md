@@ -11,3 +11,4 @@ https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/0c7f12a8-11f2-4a
 > [!NOTE]
 > This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
 
+./themepatcher.sh "Catppuccin-Mocha" "https://github.com/shifty11/hyde-themes/tree/Catppuccin-Mocha" "robbowen.synthwave-vscode~SynthWave '84"
